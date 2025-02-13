@@ -1,0 +1,4 @@
+Console.WriteLine("M.Abdul Monim");
+Console.WriteLine("roll no. 24-st-055");
+Console.WriteLine("2nd semester");
+Console.WriteLine("software engineering dept."); 
