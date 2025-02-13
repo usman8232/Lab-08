@@ -1,1 +1,4 @@
-This is my new Comntribution.
+This is my new Contribution.
+Console.WriteLine("My name is Tabeen Shah");
+Console.WriteLine("My roll no is: 24-ST-061");
+Console.WriteLine("My department is: Software Engineering");
