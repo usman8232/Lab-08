@@ -1,0 +1,10 @@
+Console.WriteLine("hafiz abdullah tahir")
+Console.WriteLine("025")
+Console.WriteLine("
+1-stats
+2-discrete structure
+3-islamiyat
+4-english
+5-sdlc
+6-scm
+   ")
