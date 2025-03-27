@@ -1,4 +1,4 @@
-Console.WriteLine("Name: Muhammad Huzaifa");
+Console.WriteLine("Name: Muhammad Sohaib Ramzan");
 Console.WriteLine("Department: Software Enginerring");
 Console.WriteLine("SDLC");
 Console.WriteLine("SCM");
