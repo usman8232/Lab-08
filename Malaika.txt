@@ -1,0 +1,10 @@
+Console.WriteLine("Roll Number: 24-ST-063");
+Console.WriteLine("Department : Software Engineering Technology");
+Console.WriteLine("\nPapers Given in 2nd Semester: ");
+Console.WriteLine("Probability and Statistics");
+Console.WriteLine("Functional English");
+Console.WriteLine("Tarjama tul Quran I");
+Console.WriteLine("Software Development Life Cycle");
+Console.WriteLine("Object-Oriented Programming (C#)");
+Console.WriteLine("Software Configuration Management");
+Console.WriteLine("Discrete Structures");
