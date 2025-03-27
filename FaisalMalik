@@ -1,0 +1,29 @@
+// Student Information File
+using System;
+
+class StudentInfo
+{
+    static void Main()
+    {
+        string rollNumber = "24-ST-060";
+        string department = "BSc Software Engineering Technology";
+        
+        // Papers with C# code in 2nd semester
+        string[] papersWithCSharp = {
+            "Object-Oriented Programming",
+            "descrite structure",
+            "SDLC"
+        };
+        
+        // Display information
+        Console.WriteLine("=== Student Information ===");
+        Console.WriteLine($"Roll Number: {rollNumber}");
+        Console.WriteLine($"Department: {department}");
+        
+        Console.WriteLine("\nPapers with C# code in 2nd semester:");
+        foreach (var paper in papersWithCSharp)
+        {
+            Console.WriteLine($"- {paper}");
+        }
+    }
+}
