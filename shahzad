@@ -1,0 +1,3 @@
+Console.log("24-ST-001");
+Console.log("Department: Software Engineering Technology");
+Console.log("List of Papers: 1-THQ,2-SDLC,3-Probability and Stat,3-Functional English,4-Discrete Structure,5-OOP,6-SCM");
