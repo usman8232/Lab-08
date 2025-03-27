@@ -1,0 +1,10 @@
+Console.WriteLine("My Roll Number is 24- ST- 064");
+Console.WriteLine("Department Name : Software Engineering Technology");
+Console.WriteLine("List of Papers in 2nd Semester");
+Console.WriteLine("OOP");
+Console.WriteLine("THQ");
+Console.WriteLine("English");
+Console.WriteLine("SDLC");
+Console.WriteLine("SCM");
+Console.WriteLine("Discrte");
+Console.WriteLine("Statictic");
