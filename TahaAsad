@@ -1,0 +1,9 @@
+Console.WriteLine("Rollno-24-ST-013");
+Console.WriteLine("Department of Software Engineering Technology");
+Console.WriteLine("Subject: \n 1. Statistics");
+Console.WriteLine("2. SCM");
+Console.WriteLine("3. Discrete");
+Console.WriteLine("4. The Holy Quran");
+Console.WriteLine("5. English");
+Console.WriteLine("6. SDLC");
+Console.WriteLine("7. OOPS");
