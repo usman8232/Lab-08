@@ -13,7 +13,7 @@ Console.WriteLine("Department : Software Technology");
                 "Functional English"
             };
 
-            // Display the list of papers
+           // This line has been changed
             Console.WriteLine("Papers for 2nd Semester:");
             foreach (var paper in papers)
             {
