@@ -1,0 +1,10 @@
+Console.WriteLine("24-ST-068");
+Console.WriteLine("Software Engineering");
+Console.WriteLine("\nPapers given in 2nd semester");
+Console.WriteLine("Probability and statistics");
+Console.WriteLine("Discrete Structure");
+Console.WriteLine("SDLC");
+Console.WriteLine("SCM");
+Console.WriteLine("Functional English");
+Console.WriteLine("THQ-1");
+Console.WriteLine("OOP");
