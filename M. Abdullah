@@ -1,0 +1,13 @@
+Console.Writeline(" Muhammad Abdullah ");
+Console.Writeline(" 24-ST-020 ");
+Console.Writeline(" Software Engineering Technology ");
+List<string> Papers = new List<string> Papers ;
+Papers.Add(" Functional English ");
+Papers.Add(" Tarjamah-Tul-Quran ");
+Papers.Add(" Probability and Statistics ");
+Papers.Add(" Software Development Life Cycle SDLC)");
+Papers.Add(" Object Oriented Programming ");
+Papers.Add(" Software Configuration Management ");
+Papers.Add(" Discrete Structures ");
+foreach( Var u in Papers ){
+Console.WriteLine(" u ");
