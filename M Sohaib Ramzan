@@ -1,0 +1,8 @@
+Console.WriteLine("Name: Muhammad Huzaifa");
+Console.WriteLine("Department: Software Enginerring");
+Console.WriteLine("SDLC");
+Console.WriteLine("SCM");
+Console.WriteLine("Discrete");
+Console.WriteLine("Stats");
+Console.WriteLine("English");
+Console.WriteLine("THQ");
