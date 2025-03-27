@@ -1,0 +1,31 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        string name = "Muhammad Ibraheem Tahir"; 
+        string rollNumber = "24-ST-019"; 
+        string department = "Software Engineering Technology"; 
+
+        string[] subjects = { 
+            "Statistics", 
+            "SDLC", 
+            "English", 
+            "The Holy Quran", 
+            "OOP", 
+            "SCM",
+            "Discrete"
+        };
+
+        Console.WriteLine("Name: " + name);
+        Console.WriteLine("Roll Number: " + rollNumber);
+        Console.WriteLine("Department: " + department);
+        Console.WriteLine("Subjects:");
+
+        foreach (string subject in subjects)
+        {
+            Console.WriteLine("- " + subject);
+        }
+    }
+}
