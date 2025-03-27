@@ -1,0 +1,11 @@
+Console.WriteLine("My Rollno is: 24-ST-061");
+Console.WriteLine("My Department is: Software Engineering Technology");
+Console.WriteLine("The Papers that are given in 2nd Semester:");
+Console.WriteLine("Probability & Statistics");
+Console.WriteLine("QTC-01");
+Console.WriteLine("SDLC");
+Console.WriteLine("English");
+Console.WriteLine("OOP");
+Console.WriteLine("Discrete");
+Console.WriteLine("SCM");
+Console.ReadLine();
