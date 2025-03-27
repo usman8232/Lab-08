@@ -1,0 +1,12 @@
+Console.WriteLine("24-SET-035");
+Console.WriteLine("Software Engineering Technology");
+
+Console.WriteLine("List of 2nd Semester Papers: ");
+
+Console.WriteLine("Statistics and Probability");
+Console.WriteLine("Functional English");
+Console.WriteLine("Translation of Holy Quran");
+Console.WriteLine("Software Development Life Cycle");
+Console.WriteLine("Object Oriented Programming");
+Console.WriteLine("Software Configuration Management");
+Console.WriteLine("Discrete Structures");
