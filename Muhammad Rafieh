@@ -1,0 +1,30 @@
+My name Is Muhammad Rafieh 
+Roll no : 24-ST-075
+Department: Software engineering 
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main()
+    {
+        // Creating a list of 6 subjects 
+        List<string> items = new List<string>
+        {
+            "OOP",
+            "SDLC",
+            "SCM",
+            "Discreet structures",
+            "Functional English ",
+            "probability and statistics",
+            "
+        };
+
+        // Displaying the list of items
+        Console.WriteLine("List of Items:");
+        foreach (var item in items)
+        {
+            Console.WriteLine("- " + item);
+        }
+    }
+}
