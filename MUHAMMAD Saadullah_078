@@ -1,0 +1,9 @@
+Console.WriteLine("Roll no : 078");
+Console.WriteLine("Department : Software engineering technology"); 
+Console.WriteLine("List of papers of second semester
+1-Staticts
+2-SCM
+3-Descreate
+4-Tarjmatul Quran 
+5-Formal English
+");
