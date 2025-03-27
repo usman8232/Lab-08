@@ -1,0 +1,8 @@
+Console.WriteLine("Roll No. : 24-ST-036");
+Console.WriteLine("Department: Software Engineering Technology");
+Console.WriteLine("Subjects: \n Statistics");
+Console.WriteLine(" English");
+Console.WriteLine("SDLC");
+Console.WriteLine("SCM");
+Console.WriteLine("THQ");
+Console.WriteLine("Discrete Structure");
