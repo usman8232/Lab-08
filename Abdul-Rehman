@@ -1,7 +1,7 @@
 console.writeline(" Name : Abdul Rehman");
 console.writeline("Roll number : 24-ST-41");
 console.writeline("Paper Given in 2nd Semester");
-console.writeline("English");
+console.writeline(" Functional English");
 console.writeline("Statistics");
 console.writeline("OOPs");
 console.writeline("Discrete Structure");
