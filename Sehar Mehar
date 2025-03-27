@@ -1,0 +1,20 @@
+Console.WriteLine("Enter name");
+string name = Console. Readline();
+Console.WriteLine("Enter Roll no");
+int Roll no = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine (" Enter Department");
+string Department= Convert.ToInt32(Console.ReadLine());
+
+List<string>secondSemesterPapers= new List<string>()
+{
+"OOP"
+"Functional English"
+"SCM"
+"THQ"
+"Statistics & Probility"
+"SDLC"
+"Discrete Structure"
+}
+Console.WriteLine("Papers are given in the 2nd Semester");
+
+Console.ReadLine();
