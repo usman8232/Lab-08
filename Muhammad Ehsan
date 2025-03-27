@@ -1,0 +1,23 @@
+using System;
+
+class Student
+{
+    static void Main()
+    {
+        // Student details
+        string rollNo = "24-ST-033";
+        string department = "Software Engineering";
+        string[] papers = { "Data Structures", "Database Systems", "Object-Oriented Programming", "Operating Systems" };
+        
+        // Display details
+        Console.WriteLine("Student Details:");
+        Console.WriteLine("Roll No: " + rollNo);
+        Console.WriteLine("Department: " + department);
+        Console.WriteLine("2nd Semester Papers:");
+        
+        foreach (string paper in papers)
+        {
+            Console.WriteLine("- " + paper);
+        }
+    }
+}
