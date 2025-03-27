@@ -1,0 +1,9 @@
+console.writeline("my name is saqlain ");
+console.writeline("my name roll no is 24-ST-077");
+console.writeline("my department is: software engineering technology");
+console.writeline("1. tarjama tul quran");
+console.writeline("2. english ");
+console.writeline("3. object oreantation programming");
+console.writeline("4. statistics");
+console.writeline("5. descerede structure");
+console.writeline("6. system configuration managment");
