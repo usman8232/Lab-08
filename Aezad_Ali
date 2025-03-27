@@ -1,0 +1,12 @@
+Console.WriteLine("24-ST-085");
+Console.WriteLine("Software Engineering Department");
+ List<string> subjects = new List<string>
+        {
+            "Statistics",
+            "English",
+            "QTC",
+            "SDLC",
+            "Discreet Structure",
+            "OOP"
+            "SCM"
+        };
