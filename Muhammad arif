@@ -1,0 +1,9 @@
+Console.WriteLine("Roll number: 24-ST-083");
+Console.WriteLine("Department:Software engineering Technology");
+Console.WriteLine("Subject: \n 1. Statistics");
+Console.WriteLine("2. SCM");
+Console.WriteLine("3. Discrete");
+Console.WriteLine("4. The Holy Quran");
+Console.WriteLine("5. English");
+Console.WriteLine("6. SDLC");
+Console.WriteLine("7. OOPS");
