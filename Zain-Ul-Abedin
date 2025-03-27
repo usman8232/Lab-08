@@ -1,0 +1,21 @@
+Console.WriteLine("Name : Zain-Ul-Abedin");
+Console.WriteLine("Roll no : 24-ST-038");
+Console.WriteLine("Department : Software Technology");
+  
+  List<string> papers = new List<string>
+            {
+                "OOP (Object-Oriented Programming)",
+                "SCM (Software Configuration Management)",
+                "Discrete Structures",
+                "SDLC (Software Development Life Cycle)",
+                "THQ I (Theory of Computation)",
+                "Probability and Statistics",
+                "Functional English"
+            };
+
+            // Display the list of papers
+            Console.WriteLine("Papers for 2nd Semester:");
+            foreach (var paper in papers)
+            {
+                Console.WriteLine("- " + paper);
+            }
